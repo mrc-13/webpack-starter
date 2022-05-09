@@ -2,7 +2,7 @@
 
 Este es el proyecto inicial par crear aplicaciones usando webpack.
 
-###Notas
+### Notas:
 
 ```
 npm install
