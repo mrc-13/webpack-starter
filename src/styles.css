@@ -1,0 +1,8 @@
+html, body{
+    margin: 0;
+    background-color: rgb(126, 98, 158);
+}
+img{
+    width: 70%;
+    background-repeat: no-repeat;
+}
